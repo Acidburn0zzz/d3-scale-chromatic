@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "eslint": "6",
-    "rollup": "1",
+    "rollup": "3",
     "rollup-plugin-terser": "5",
     "tape": "4"
   }
